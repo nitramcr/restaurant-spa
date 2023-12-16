@@ -1,0 +1,9 @@
+export { AboutUs } from "./AboutUs/AboutUs";
+export { Chef } from "./Chef/Chef";
+export { FindUs } from "./Findus/FindUs";
+export { Footer } from "./Footer/Footer";
+export { Gallery } from "./Gallery/Gallery";
+export { Header } from "./Header/Header";
+export { Intro } from "./Intro/Intro";
+export { Laurels } from "./Laurels/Laurels";
+export { SpecialMenu } from "./Menu/SpecialMenu";
